@@ -27,27 +27,27 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6751657155:AAHRgwNzDEE5n0h77YlRiKxEEUEwSL0iAbw",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Nezuko database for you.",
-        "value": "",
+        "value": "mongodb+srv://MRDAXX:MRDAXX@mrdaxx.prky3aj.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "Yo Music Bot",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "6180225412",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQC6kfsAQHOWi1ALrLggLOSV5HgZTk4P2gXKfUWNm09-9VVL2VsCuAPciKj-R2byjx_5qqdIiblwgBN_mqls6PyhB4pClXMqhwZO2y6XdAUvjVTR8iLVnn8o3dDQgD5vz0hwTthJeGcHwc34k9XQQQI0_eRTvDI5rmETb06Xip20oZiba20yttD_qXsDu3gUZHhUVFM-9mwHN1DljD3GJf_nPbLSnUPWhjApZ6CboGLbcGFp3u3D142UEEJATU1itCijnGaErCwHZ6RmUqyVHD5bd6j5fKrhJPE3PjbkL4fdGBeVHv6Flz_6VC9K3Z-5U-Z6f_HME7cgIAXtk1c2Jaw_ZBTjcAAAAAGJjQp_AA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -62,12 +62,12 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1002139661881",
         "required": true
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/iamuput/NezukoMusic",
+        "value": "https://github.com/jassbots/NezukoMusic",
         "required": true
       }
     },
